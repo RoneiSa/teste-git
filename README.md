@@ -4,3 +4,4 @@ Primeiro repositorio do curso de git e gitHub
 Repositorio criado durante uma aula ao vivo !
 
 Essa linha eu adicionei diretamente no site
+Adicionando aqui para aparecer no git da minha maquina
